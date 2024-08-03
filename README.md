@@ -15,8 +15,8 @@ The three commands below specify the exact command-line syntax for invoking encr
 
 • Decryption (indicated with the -d argument in line 2)
     
-    	– perform DES decryption on the ciphertext in encrypted.txt using the key in key.txt, and write the recovered plaintext to decrypted.txt
+	– perform DES decryption on the ciphertext in encrypted.txt using the key in key.txt, and write the recovered plaintext to decrypted.txt
 
 • Image Encryption (indicated with the -i argument in line 3)
     
-    – perform DES encryption on a .ppm file type image using the key in key.txt, and writes the encrypted image file to image_enc.ppm
+	– perform DES encryption on a .ppm file type image using the key in key.txt, and writes the encrypted image file to image_enc.ppm
