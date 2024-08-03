@@ -3,7 +3,7 @@ DES Encryption &amp; Decryption (Supports Text and Image (.ppm file type))
 
 The three commands below specify the exact command-line syntax for invoking encryption and decryption.
     
-	1. python3 DES.py -e message.txt key.txt encrypted.txt
+		1. python3 DES.py -e message.txt key.txt encrypted.txt
     	2. python3 DES.py -d encrypted.txt key.txt decrypted.txt
     	3. python3 DES.py -i image.ppm key.txt image_enc.ppm
 
